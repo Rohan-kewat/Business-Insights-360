@@ -184,9 +184,11 @@ In Home view, all the views button will be available. User will land on specific
 ![Overall Report.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Home.gif)
 
 
-## Finance View
+## Finance View and Insights
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Finance%20View.gif)
+![Finace.image](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Finance%20View%20Insights.png)
+
 ## Sales View
 
 ![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
