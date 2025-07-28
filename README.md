@@ -191,25 +191,25 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Sales%20View.gif)
+![Sales.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Sales%20View%20Insights.png)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Marketing%20View.gif)
+![Marketing.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Marketing%20Insights.png)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Supply%20Chain%20View.gif)
+![Supply chain.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Supply%20Chain%20Insights.png)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Executive%20View.gif)
+![Executive.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Executive%20View%20Insights.png)
 
-## Products
-
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://app.powerbi.com/reportEmbed?reportId=02ecfc32-8e01-4bfb-b54c-37fdb778a8e9&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
+You can find the full report file here : [Report](https://app.powerbi.com/reportEmbed?reportId=02ecfc32-8e01-4bfb-b54c-37fdb778a8e9&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
 
 
 ## Project Outcome
