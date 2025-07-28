@@ -185,7 +185,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info.gif](https://github.com/Rohan-kewat/Business-Insights-360/blob/main/Home.mp4)
 
 ## Finance View
 
